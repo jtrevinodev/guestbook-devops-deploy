@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: php-redis
-        image: jtrevinodev/guestbook:master-ae8278bdb0cdb2f66e291aad9710f06f84484c3d-42
+        image: jtrevinodev/guestbook:master-b7d90d61a65b4bb0cd615092f1b4e427db7cffcc-43
         env:
         - name: GET_HOSTS_FROM
           value: "env"
